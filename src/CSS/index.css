@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+    overflow: hidden; /* Disable scrolling */
+    height: 100%; /* Ensure the height is 100% to avoid content overflow */
+    margin: 0; /* Remove default margin */
+}

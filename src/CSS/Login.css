@@ -1,0 +1,40 @@
+.Login-rec{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    margin: 0 100px;
+    background-color: darkcyan;
+    overflow: hidden;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.login-title{
+    margin: 0;
+    font-size: 4vw;
+    padding: 10px 0;
+    font-weight: bold;
+    color: white;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align form elements to the left */
+    margin-left: 10vw;
+    padding: 5%;
+}
+
+.username {
+    border: 2px solid blanchedalmond;
+    border-radius: 10px;
+    width: 70%;
+    padding: 10px;
+}
+
+.password{
+    border: 2px solid blanchedalmond;
+    border-radius: 10px;
+    width: 70%;
+    padding: 10px;
+}
