@@ -1,8 +1,11 @@
 # Full-Stack-To-Do-List-Website
 
-FrontEnd : React
-Backend : Javascript (Express.js)
-Database : MongoDB
+FrontEnd : React,
+
+Backend : Javascript (Express.js),
+
+Database : MongoDB,
+
 DOM for localStorage
 
 NOTE: 
